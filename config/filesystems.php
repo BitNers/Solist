@@ -79,7 +79,10 @@ return [
     */
 
     'links' => [
-        public_path('storage') => storage_path('app/public'),
+        public_path('/src/anguiconslar') => storage_path('app/public/icons'),
+        public_path('/src/bootstrap') => storage_path('app/public/bootstrap'),
+        public_path('/src/angular') => storage_path('app/public/angular'),
+        public_path('/src/jquery') => storage_path('app/public/jquery'),
     ],
 
 ];
