@@ -1,0 +1,9 @@
+{
+    "/src/jquery/jquery.js": "/src/jquery/jquery.js",
+    "/src/bootstrap/bootstrap.js": "/src/bootstrap/bootstrap.js",
+    "/src/angular/angular.min.js": "/src/angular/angular.min.js",
+    "/src/bootstrap/mdb.css": "/src/bootstrap/mdb.css",
+    "/src/bootstrap/mdb.js": "/src/bootstrap/mdb.js",
+    "/src/bootstrap/popper.js": "/src/bootstrap/popper.js",
+    "/src/bootstrap/bootstrap.css": "/src/bootstrap/bootstrap.css"
+}
